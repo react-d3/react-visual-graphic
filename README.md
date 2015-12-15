@@ -71,7 +71,7 @@ var Battery = require('react-visual-graphic').Battery;
 
 ## Meter
 
-<img src="./example/img/battery.png" width= "150"/>
+<img src="./example/img/meter.png" width= "150"/>
 
 ```js
 "use strict";
