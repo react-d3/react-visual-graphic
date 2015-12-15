@@ -1,6 +1,6 @@
 {
   "name": "react-visual-graphic",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "react visual graphic collections",
   "main": "./lib/index.js",
   "scripts": {
