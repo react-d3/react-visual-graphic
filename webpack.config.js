@@ -16,7 +16,8 @@ module.exports = [{
   devtool: ENV ? "source-map": '',
   entry: {
     tag: './example/src/tag.jsx',
-    battery: './example/src/battery.jsx'
+    battery: './example/src/battery.jsx',
+    meter: './example/src/meter.jsx'
   },
 
   output: {
